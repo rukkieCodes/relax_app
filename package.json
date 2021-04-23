@@ -1,0 +1,16 @@
+{
+  "name": "relaxer-app",
+  "version": "1.0.0",
+  "description": "A relaxing breathing app with a visual director to tell you when to breathe in, hold and breathe out",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "homepage": "https://rukkieCodes.github.io/relax_app",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
